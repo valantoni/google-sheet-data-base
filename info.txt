@@ -1,0 +1,8 @@
+Para activar la api de google sheet:
+
+1. Tener cuenta gmail y logearse en google cloud console
+2. Crear un nuevo proyecto en google cloud console
+3. En este proyecto activar las apis de google sheet y drive
+4. Crear un service account
+5. Crear unas nuevas credenciales para este service account (descargar el json y meterlo en la carpeta de nuestro proyecto)
+6. Crear una google sheet y compartirla con la cuenta service account creada en el paso 3
